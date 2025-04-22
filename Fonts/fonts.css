@@ -1,0 +1,12 @@
+@font-face {
+    font-family: SoDoSansBold;
+    src: url(SoDoSans-Bold.ttf);
+  }
+  @font-face {
+    font-family: SoDoSansMD;
+    src: url(SoDoSans-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: SoDoSansRG;
+    src: url(SoDoSans-Regular.ttf);
+  }
